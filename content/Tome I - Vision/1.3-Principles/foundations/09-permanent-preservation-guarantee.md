@@ -189,14 +189,14 @@ Against this, preservation investment shows demonstrated returns of £5.40 to £
 ## Dependencies & Relationships
 
 ### Depends On
-- **[[03-storage-trinity-architecture]]**: Technical foundation for redundant preservation
-- **[[13-antifragility-design-philosophy]]**: System strengthening through challenge response
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/03-storage-trinity-architecture]]**: Technical foundation for redundant preservation
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/13-antifragility-design-philosophy]]**: System strengthening through challenge response
 - **[[10-open-source-non-proprietary]]**: Prevents capture that could compromise guarantee
 
 ### Enables
-- **[[05-creator-sovereignty]]**: Creators can trust system with valuable content
-- **[[12-civilizational-memory-infrastructure]]**: Enables century-scale preservation mission
-- **[[Foundations/06-infrastructure-not-platform]]**: Supports infrastructure model over platform revenue
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]]**: Creators can trust system with valuable content
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/12-civilizational-memory-infrastructure]]**: Enables century-scale preservation mission
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/06-infrastructure-not-platform]]**: Supports infrastructure model over platform revenue
 
 ### Feature Integration
 - **Storage Management**: All storage features must support guarantee requirements
@@ -302,9 +302,9 @@ Different versions of the guarantee (different probability thresholds or time ho
 - **[[10-open-source-non-proprietary]]**: Prevents capture that could compromise preservation guarantee
 
 ### Cross-Category Dependencies
-- **[[03-storage-trinity-architecture]]**: Technical foundation that enables the guarantee
-- **[[13-antifragility-design-philosophy]]**: System strengthening approach that supports guarantee viability
-- **[[12-civilizational-memory-infrastructure]]**: Century-scale thinking that the guarantee makes possible
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/03-storage-trinity-architecture]]**: Technical foundation that enables the guarantee
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/13-antifragility-design-philosophy]]**: System strengthening approach that supports guarantee viability
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/12-civilizational-memory-infrastructure]]**: Century-scale thinking that the guarantee makes possible
 
 ### Emergent Properties
 When combined with Creator Sovereignty and Infrastructure principles, the Permanent Preservation Guarantee creates unprecedented creator confidence in digital preservation, enabling new forms of creative risk-taking and long-term thinking.
@@ -358,9 +358,9 @@ When combined with Creator Sovereignty and Infrastructure principles, the Perman
 - Endowment management best practices from major universities and foundations
 
 ### Cross-References Within This Document
-- [[03-storage-trinity-architecture]] - Technical foundation
-- [[05-creator-sovereignty]] - Creator trust relationship
-- [[13-antifragility-design-philosophy]] - System strengthening approach
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/03-storage-trinity-architecture]] - Technical foundation
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]] - Creator trust relationship
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/13-antifragility-design-philosophy]] - System strengthening approach
 
 ---
 

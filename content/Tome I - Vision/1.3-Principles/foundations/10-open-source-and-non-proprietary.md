@@ -345,9 +345,9 @@ When combined with other foundational concepts, openness creates trust cascades:
 ### Cross-References Within This Document
 *Other foundational concepts referenced*
 
-- [[05-creator-sovereignty]] - How openness enables sovereignty
-- [[09-permanent-preservation-guarantee]] - How open formats enable preservation
-- [[Foundations/06-infrastructure-not-platform]] - How openness enables infrastructure approach
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]] - How openness enables sovereignty
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/09-permanent-preservation-guarantee]] - How open formats enable preservation
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/06-infrastructure-not-platform]] - How openness enables infrastructure approach
 
 ---
 

@@ -36,7 +36,7 @@ No significant gaps identified. The DAP format specification is comprehensively 
 
 ### Supporting Context
 - [[02-zero-knowledge-creative-privacy]] - Zero-knowledge encryption implementation
-- [[03-storage-trinity-architecture]] - Storage Trinity integration
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/03-storage-trinity-architecture]] - Storage Trinity integration
 - <!-- Reference removed - outdated foundation index --> - Complete foundations context and dependencies
 
 ### Related Documentation
@@ -141,15 +141,15 @@ The Deep Authorship Package is a ZIP-compressed archive containing three encrypt
 
 ### Depends On
 
-- **[[01-deep-authorship-3-layer-model]]**: DAP format implements the 3-layer architecture as its foundational structure
-- **[[08-zero-knowledge-encryption-for-core-layer]]**: Zero-knowledge encryption is mandatory for Core layer implementation
-- **[[05-creator-sovereignty]]**: Creator sovereignty principles guide all DAP access control and permission systems
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/01-deep-authorship-3-layer-model]]**: DAP format implements the 3-layer architecture as its foundational structure
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/08-zero-knowledge-encryption-for-core-layer]]**: Zero-knowledge encryption is mandatory for Core layer implementation
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]]**: Creator sovereignty principles guide all DAP access control and permission systems
 
 ### Enables
 
-- **[[03-storage-trinity-architecture]]**: Storage Trinity operates on DAPs as atomic preservation units
-- **[[04-schema-projector-framework]]**: Schema Projector translates between DAP and standard archival formats
-- **[[11-memory-vs-backup-paradigm]]**: DAP format enables memory preservation rather than mechanical backup
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/03-storage-trinity-architecture]]**: Storage Trinity operates on DAPs as atomic preservation units
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/04-schema-projector-framework]]**: Schema Projector translates between DAP and standard archival formats
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/11-memory-vs-backup-paradigm]]**: DAP format enables memory preservation rather than mechanical backup
 
 ### Feature Integration
 
@@ -249,15 +249,15 @@ DAP versions are managed through the dapVersion field in manifest.json, parentDa
 
 ### Within Same Category
 
-- **[[01-deep-authorship-3-layer-model]]**: DAP format implements the 3-layer architecture as its core organizational principle
-- **[[03-storage-trinity-architecture]]**: Storage Trinity stores DAPs as atomic units across three preservation layers
-- **[[04-schema-projector-framework]]**: Schema Projector enables DAP interoperability with standard archival formats
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/01-deep-authorship-3-layer-model]]**: DAP format implements the 3-layer architecture as its core organizational principle
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/03-storage-trinity-architecture]]**: Storage Trinity stores DAPs as atomic units across three preservation layers
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/04-schema-projector-framework]]**: Schema Projector enables DAP interoperability with standard archival formats
 
 ### Cross-Category Dependencies
 
-- **[[05-creator-sovereignty]]**: Creator sovereignty principles guide all DAP access control and permission systems
-- **[[08-zero-knowledge-encryption-for-core-layer]]**: Zero-knowledge encryption is mandatory for Core layer implementation
-- **[[10-open-source-and-non-proprietary]]**: DAP specification must remain open and non-proprietary for long-term viability
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]]**: Creator sovereignty principles guide all DAP access control and permission systems
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/08-zero-knowledge-encryption-for-core-layer]]**: Zero-knowledge encryption is mandatory for Core layer implementation
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/10-open-source-and-non-proprietary]]**: DAP specification must remain open and non-proprietary for long-term viability
 
 ### Emergent Properties
 
@@ -316,9 +316,9 @@ When combined with other foundational concepts, DAP format enables sophisticated
 - CRYSTALS-Kyber (NIST PQC) - Post-quantum key protection standard
 
 ### Cross-References Within This Document
-- [[01-deep-authorship-3-layer-model]] - Architectural foundation for DAP structure
-- [[05-creator-sovereignty]] - Philosophical foundation for DAP access controls
-- [[08-zero-knowledge-encryption-for-core-layer]] - Technical requirement for Core layer implementation
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/01-deep-authorship-3-layer-model]] - Architectural foundation for DAP structure
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]] - Philosophical foundation for DAP access controls
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/08-zero-knowledge-encryption-for-core-layer]] - Technical requirement for Core layer implementation
 
 ---
 

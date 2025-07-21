@@ -41,9 +41,9 @@ No significant gaps identified. Concept is comprehensively documented across mul
 - [[2025-07-06-Foundations-Index]] - Complete foundations context and dependencies
 
 ### Related Documentation
-- [[01-deep-authorship-3-layer-model]] - Technical architecture that embodies this principle
-- [[05-creator-sovereignty]] - Sovereignty over creative process
-- [[11-memory-vs-backup-paradigm]] - Memory preserves journey, not just destination
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/01-deep-authorship-3-layer-model]] - Technical architecture that embodies this principle
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]] - Sovereignty over creative process
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/11-memory-vs-backup-paradigm]] - Memory preserves journey, not just destination
 
 ## Overview
 
@@ -144,13 +144,13 @@ Process over Product means that systems must be designed to capture, preserve, a
 ## Dependencies & Relationships
 
 ### Depends On
-- **[[01-deep-authorship-3-layer-model]]**: The technical architecture that enables process separation and preservation
-- **[[05-creator-sovereignty]]**: The principle that ensures creators control how their process is shared
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/01-deep-authorship-3-layer-model]]**: The technical architecture that enables process separation and preservation
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]]**: The principle that ensures creators control how their process is shared
 - **[[08-zero-knowledge-encryption]]**: The technical requirement that protects private process information
 
 ### Enables
-- **[[11-memory-vs-backup-paradigm]]**: Process preservation is what transforms backup into memory
-- **[[12-civilizational-memory-infrastructure]]**: Process documentation enables future understanding of how humanity created meaning
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/11-memory-vs-backup-paradigm]]**: Process preservation is what transforms backup into memory
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/12-civilizational-memory-infrastructure]]**: Process documentation enables future understanding of how humanity created meaning
 - **[[14-progressive-trust-sovereignty]]**: Process layers support gradual sharing from private to public
 
 ### Feature Integration
@@ -245,13 +245,13 @@ Different versions of process capture systems must maintain interoperability to 
 ## Related Concepts
 
 ### Within Same Category
-- **[[05-creator-sovereignty]]**: Ensures creators control how their process is shared
-- **[[Foundations/06-infrastructure-not-platform]]**: Enables rather than extracts value from creative process
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]]**: Ensures creators control how their process is shared
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/06-infrastructure-not-platform]]**: Enables rather than extracts value from creative process
 
 ### Cross-Category Dependencies
-- **[[01-deep-authorship-3-layer-model]]**: Provides technical architecture for process separation
-- **[[11-memory-vs-backup-paradigm]]**: Process preservation transforms backup into memory
-- **[[12-civilizational-memory-infrastructure]]**: Process documentation enables future understanding of human creativity
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/01-deep-authorship-3-layer-model]]**: Provides technical architecture for process separation
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/11-memory-vs-backup-paradigm]]**: Process preservation transforms backup into memory
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/12-civilizational-memory-infrastructure]]**: Process documentation enables future understanding of human creativity
 
 ### Emergent Properties
 When Process over Product combines with Creator Sovereignty and the 3-Layer Model, it creates unprecedented capabilities for selective process sharing. Combined with Memory vs. Backup Paradigm, it transforms storage into meaningful preservation. Together with Civilizational Memory Infrastructure, it enables future AI systems to learn from human creative process rather than just outputs.
@@ -306,9 +306,9 @@ When Process over Product combines with Creator Sovereignty and the 3-Layer Mode
 - Cognitive science research on decision-making and memory
 
 ### Cross-References Within This Document
-- [[01-deep-authorship-3-layer-model]] - Technical architecture that embodies this principle
-- [[05-creator-sovereignty]] - Creator control over process sharing
-- [[11-memory-vs-backup-paradigm]] - Process preservation transforms backup into memory
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/01-deep-authorship-3-layer-model]] - Technical architecture that embodies this principle
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]] - Creator control over process sharing
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/11-memory-vs-backup-paradigm]] - Process preservation transforms backup into memory
 
 ---
 

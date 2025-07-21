@@ -43,9 +43,9 @@ Additional research needed on:
 - [[2025-07-06-Foundations-Index]] - Complete foundations context and dependencies
 
 ### Related Documentation
-- [[05-creator-sovereignty]] - Creator control principles
-- [[08-zero-knowledge-encryption-for-core-layer]] - Privacy preservation technology
-- [[Foundations/06-infrastructure-not-platform]] - Non-extractive design principles
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]] - Creator control principles
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/08-zero-knowledge-encryption-for-core-layer]] - Privacy preservation technology
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/06-infrastructure-not-platform]] - Non-extractive design principles
 
 ## Overview
 
@@ -137,12 +137,12 @@ The framework requires sophisticated cryptographic architecture to enable identi
 ## Dependencies & Relationships
 
 ### Depends On
-- **[[05-creator-sovereignty]]**: Progressive Trust cannot exist without absolute creator control over their work and identity decisions
-- **[[08-zero-knowledge-encryption-for-core-layer]]**: Technical sovereignty preservation requires cryptographic privacy guarantees
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]]**: Progressive Trust cannot exist without absolute creator control over their work and identity decisions
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/08-zero-knowledge-encryption-for-core-layer]]**: Technical sovereignty preservation requires cryptographic privacy guarantees
 
 ### Enables
-- **[[04-schema-projector-framework]]**: Progressive Trust enables institutional integration by providing the identity framework that institutions need for discovery and collaboration
-- **[[12-civilizational-memory-infrastructure]]**: Enables global participation across cultural contexts without forcing Western identity concepts
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/04-schema-projector-framework]]**: Progressive Trust enables institutional integration by providing the identity framework that institutions need for discovery and collaboration
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/12-civilizational-memory-infrastructure]]**: Enables global participation across cultural contexts without forcing Western identity concepts
 
 ### Feature Integration
 - **Identity Systems**: All identity features implement the progressive spectrum rather than binary categories
@@ -227,13 +227,13 @@ Different versions of Progressive Trust implementation should maintain interoper
 ## Related Concepts
 
 ### Within Same Category
-- **[[11-memory-vs-backup-paradigm]]**: Progressive Trust enables the memory paradigm by providing the identity framework that makes preserved work meaningful and discoverable
-- **[[13-antifragility-design-philosophy]]**: Progressive Trust implements antifragility by creating identity systems that become stronger through use and cultural adaptation
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/11-memory-vs-backup-paradigm]]**: Progressive Trust enables the memory paradigm by providing the identity framework that makes preserved work meaningful and discoverable
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/13-antifragility-design-philosophy]]**: Progressive Trust implements antifragility by creating identity systems that become stronger through use and cultural adaptation
 
 ### Cross-Category Dependencies
-- **[[05-creator-sovereignty]]**: Progressive Trust technically implements creator sovereignty across identity states
-- **[[08-zero-knowledge-encryption-for-core-layer]]**: Technical foundation for sovereignty preservation across identity levels
-- **[[Foundations/06-infrastructure-not-platform]]**: Ensures identity verification serves creators rather than extracting value from them
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]]**: Progressive Trust technically implements creator sovereignty across identity states
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/08-zero-knowledge-encryption-for-core-layer]]**: Technical foundation for sovereignty preservation across identity levels
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/06-infrastructure-not-platform]]**: Ensures identity verification serves creators rather than extracting value from them
 
 ### Emergent Properties
 When Progressive Trust combines with Creator Sovereignty and Zero-Knowledge Encryption, it creates the capability for "sovereign verification" - the ability to prove identity claims without surrendering control over creative work. This enables new forms of institutional collaboration that preserve creator autonomy.
@@ -267,8 +267,8 @@ When Progressive Trust combines with Creator Sovereignty and Zero-Knowledge Encr
 
 #### Foundational Concepts
 - [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Foundations/README]] - Concept #14 definition and foundational role
-- [[05-creator-sovereignty]] - Sovereignty preservation principles
-- [[08-zero-knowledge-encryption-for-core-layer]] - Technical privacy implementation
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]] - Sovereignty preservation principles
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/08-zero-knowledge-encryption-for-core-layer]] - Technical privacy implementation
 
 #### Features Documentation
 - [[💎 Codex/Features/Identity Systems/Progressive Identity]] - Feature implementation connecting to foundational concept
@@ -280,9 +280,9 @@ When Progressive Trust combines with Creator Sovereignty and Zero-Knowledge Encr
 - Post-colonial digital studies - Anti-colonial design principles for identity systems
 
 ### Cross-References Within This Document
-- [[05-creator-sovereignty]] - Creator control implementation
-- [[Foundations/06-infrastructure-not-platform]] - Non-extractive design principles
-- [[12-civilizational-memory-infrastructure]] - Global participation framework
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]] - Creator control implementation
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/06-infrastructure-not-platform]] - Non-extractive design principles
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/12-civilizational-memory-infrastructure]] - Global participation framework
 
 ---
 

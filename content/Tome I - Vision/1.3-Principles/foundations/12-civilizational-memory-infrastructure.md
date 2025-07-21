@@ -31,7 +31,7 @@ No significant gaps identified. The concept is well-documented across multiple c
 
 ### Primary Sources
 - [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Foundations/README]] - Foundational concepts overview (Conceptual Framework #12)
-- [[02-the-everarchive-manifesto]] - Civilizational threat analysis and infrastructure vision
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.1-Core-Vision/02-the-everarchive-manifesto]] - Civilizational threat analysis and infrastructure vision
 - [[01-canonical-architecture]] - Deep-time design and post-quantum considerations
 - [[01-governance-constitution]] - Multi-generational governance frameworks
 
@@ -41,9 +41,9 @@ No significant gaps identified. The concept is well-documented across multiple c
 - [[2025-07-06-Foundations-Index]] - Complete foundations context and dependencies
 
 ### Related Documentation
-- [[Foundations/06-infrastructure-not-platform]] - Supporting infrastructure philosophy
-- [[13-antifragility-design-philosophy]] - Resilience approach for civilizational scale
-- [[09-permanent-preservation-guarantee]] - Technical backing for civilizational promises
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/06-infrastructure-not-platform]] - Supporting infrastructure philosophy
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/13-antifragility-design-philosophy]] - Resilience approach for civilizational scale
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/09-permanent-preservation-guarantee]] - Technical backing for civilizational promises
 
 ## Overview
 
@@ -188,13 +188,13 @@ The economic burden of memory loss affects entire civilizations:
 ## Dependencies & Relationships
 
 ### Depends On
-- **[[Foundations/06-infrastructure-not-platform]]**: Civilizational infrastructure requires non-extractive economic models and foundational layer positioning
-- **[[13-antifragility-design-philosophy]]**: Century-scale systems must become stronger through challenges rather than just surviving them
-- **[[09-permanent-preservation-guarantee]]**: Civilizational promises require technical backing through permanent preservation architecture
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/06-infrastructure-not-platform]]**: Civilizational infrastructure requires non-extractive economic models and foundational layer positioning
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/13-antifragility-design-philosophy]]**: Century-scale systems must become stronger through challenges rather than just surviving them
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/09-permanent-preservation-guarantee]]**: Civilizational promises require technical backing through permanent preservation architecture
 
 ### Enables
-- **[[01-deep-authorship-3-layer-model]]**: Civilizational thinking justifies preserving creative process across cultures and centuries
-- **[[05-creator-sovereignty]]**: Universal creative control requires civilizational-scale governance structures
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/01-deep-authorship-3-layer-model]]**: Civilizational thinking justifies preserving creative process across cultures and centuries
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]]**: Universal creative control requires civilizational-scale governance structures
 - **[[10-open-source-non-proprietary]]**: Long-term viability demands open protocols that transcend organizational boundaries
 
 ### Feature Integration
@@ -287,13 +287,13 @@ Different cultural contexts may require different expressions of this concept, b
 ## Related Concepts
 
 ### Within Same Category
-- **[[11-memory-vs-backup-paradigm]]**: Civilizational infrastructure preserves meaning and context, not just mechanical storage
-- **[[13-antifragility-design-philosophy]]**: Systems that operate at civilizational scale must improve through challenges
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/11-memory-vs-backup-paradigm]]**: Civilizational infrastructure preserves meaning and context, not just mechanical storage
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/13-antifragility-design-philosophy]]**: Systems that operate at civilizational scale must improve through challenges
 - **[[14-progressive-trust-sovereignty]]**: Universal access requires accommodation of diverse trust and identity frameworks
 
 ### Cross-Category Dependencies
-- **[[Foundations/06-infrastructure-not-platform]]**: Civilizational infrastructure requires non-extractive economic models
-- **[[09-permanent-preservation-guarantee]]**: Civilizational promises require technical backing through permanent preservation
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/06-infrastructure-not-platform]]**: Civilizational infrastructure requires non-extractive economic models
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/09-permanent-preservation-guarantee]]**: Civilizational promises require technical backing through permanent preservation
 - **[[10-open-source-non-proprietary]]**: Long-term viability demands open protocols that transcend organizational boundaries
 
 ### Emergent Properties
@@ -346,9 +346,9 @@ When combined with other foundational concepts, civilizational infrastructure cr
 ### Cross-References Within This Document
 *Other foundational concepts referenced*
 
-- [[Foundations/06-infrastructure-not-platform]] - Supporting economic philosophy
-- [[09-permanent-preservation-guarantee]] - Technical backing for civilizational promises
-- [[13-antifragility-design-philosophy]] - Resilience approach for civilizational scale
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/06-infrastructure-not-platform]] - Supporting economic philosophy
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/09-permanent-preservation-guarantee]] - Technical backing for civilizational promises
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/13-antifragility-design-philosophy]] - Resilience approach for civilizational scale
 
 ---
 

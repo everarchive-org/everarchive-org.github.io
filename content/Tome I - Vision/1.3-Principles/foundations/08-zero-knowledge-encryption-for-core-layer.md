@@ -166,13 +166,13 @@ Zero-Knowledge Encryption for Core Layer means that all data stored in the Core 
 ## Dependencies & Relationships
 
 ### Depends On
-- **[[05-creator-sovereignty]]**: Zero-knowledge encryption is the technical implementation of creator sovereignty principles
-- **[[10-open-source-and-non-proprietary]]**: Encryption algorithms and implementations must be open source for security verification
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]]**: Zero-knowledge encryption is the technical implementation of creator sovereignty principles
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/10-open-source-and-non-proprietary]]**: Encryption algorithms and implementations must be open source for security verification
 
 ### Enables
 - **[[02-zero-knowledge-creative-privacy]]**: This feature is built directly on zero-knowledge encryption foundations
 - **[[03-key-recovery-success]]**: Social recovery mechanisms depend on threshold cryptography
-- **[[14-progressive-trust-and-sovereignty]]**: Anonymous creation requires zero-knowledge privacy guarantees
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/14-progressive-trust-and-sovereignty]]**: Anonymous creation requires zero-knowledge privacy guarantees
 
 ### Feature Integration
 - **Creative Control Features**: All privacy control features depend on Core Layer encryption for technical enforcement
@@ -285,13 +285,13 @@ EES versions will be backward-compatible for decryption but forward-compatible f
 ## Related Concepts
 
 ### Within Same Category
-- **[[09-permanent-preservation-guarantee]]**: Both require mathematical rather than administrative guarantees
-- **[[10-open-source-and-non-proprietary]]**: Encryption algorithms must be open source for security verification
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/09-permanent-preservation-guarantee]]**: Both require mathematical rather than administrative guarantees
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/10-open-source-and-non-proprietary]]**: Encryption algorithms must be open source for security verification
 
 ### Cross-Category Dependencies
-- **[[05-creator-sovereignty]]**: Zero-knowledge encryption is the technical enforcement mechanism for creator sovereignty
-- **[[01-deep-authorship-3-layer-model]]**: Defines exactly which layer requires zero-knowledge protection
-- **[[14-progressive-trust-and-sovereignty]]**: Anonymous creation depends on zero-knowledge privacy guarantees
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]]**: Zero-knowledge encryption is the technical enforcement mechanism for creator sovereignty
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/01-deep-authorship-3-layer-model]]**: Defines exactly which layer requires zero-knowledge protection
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/14-progressive-trust-and-sovereignty]]**: Anonymous creation depends on zero-knowledge privacy guarantees
 
 ### Emergent Properties
 When combined with other foundational concepts, zero-knowledge encryption enables: anonymous creation with proof, private collaborative spaces, confidential work verification, and privacy-preserving creative marketplaces. The mathematical privacy guarantees make possible entirely new categories of creative expression and research that would be impossible without cryptographic protection.
@@ -350,9 +350,9 @@ When combined with other foundational concepts, zero-knowledge encryption enable
 ### Cross-References Within This Document
 *Other foundational concepts referenced*
 
-- [[01-deep-authorship-3-layer-model]] - Defines Core Layer boundaries and requirements
-- [[05-creator-sovereignty]] - Philosophical principle that this concept technically enforces
-- [[10-open-source-and-non-proprietary]] - Requirement for algorithmic transparency and verification
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/01-deep-authorship-3-layer-model]] - Defines Core Layer boundaries and requirements
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]] - Philosophical principle that this concept technically enforces
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/10-open-source-and-non-proprietary]] - Requirement for algorithmic transparency and verification
 
 ---
 

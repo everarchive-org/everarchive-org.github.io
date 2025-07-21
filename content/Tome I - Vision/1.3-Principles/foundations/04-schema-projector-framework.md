@@ -146,9 +146,9 @@ The framework requires:
 ## Dependencies & Relationships
 
 ### Depends On
-- **[[01-deep-authorship-3-layer-model]]**: The 3-layer structure that Schema Projector must preserve in all translations
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/01-deep-authorship-3-layer-model]]**: The 3-layer structure that Schema Projector must preserve in all translations
 - **[[02-deep-authorship-package-format]]**: The DAP format specifications that define the source format for all conversions
-- **[[10-open-source-and-non-proprietary]]**: Framework must be open source to prevent vendor lock-in
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/10-open-source-and-non-proprietary]]**: Framework must be open source to prevent vendor lock-in
 
 ### Enables
 - **[[25-standards-interoperability-without-lockin]]**: Core feature enabled by Schema Projector translation capabilities
@@ -238,14 +238,14 @@ Schema Projector uses semantic versioning with clear compatibility guarantees. M
 ## Related Concepts
 
 ### Within Same Category
-- **[[01-deep-authorship-3-layer-model]]**: Provides the structure that Schema Projector must preserve in all translations
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/01-deep-authorship-3-layer-model]]**: Provides the structure that Schema Projector must preserve in all translations
 - **[[02-deep-authorship-package-format]]**: Defines the native format that serves as the source for all conversions
-- **[[03-storage-trinity-architecture]]**: Ensures blockchain verification data is preserved through format conversions
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/03-storage-trinity-architecture]]**: Ensures blockchain verification data is preserved through format conversions
 
 ### Cross-Category Dependencies
-- **[[05-creator-sovereignty]]**: Ensures translation never compromises creator control over their work
-- **[[Foundations/06-infrastructure-not-platform]]**: Enables institutional choice in formats rather than forcing DAP adoption
-- **[[10-open-source-and-non-proprietary]]**: Prevents vendor lock-in through open translation specifications
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]]**: Ensures translation never compromises creator control over their work
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/06-infrastructure-not-platform]]**: Enables institutional choice in formats rather than forcing DAP adoption
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/10-open-source-and-non-proprietary]]**: Prevents vendor lock-in through open translation specifications
 
 ### Emergent Properties
 When combined with Progressive Trust and Sovereignty (concept #14), Schema Projector enables institutions to work with anonymous creators while maintaining archival standards compliance. Integration with Civilizational Memory Infrastructure (concept #12) ensures format translations preserve cultural context across centuries.
@@ -300,10 +300,10 @@ When combined with Progressive Trust and Sovereignty (concept #14), Schema Proje
 - Digital Preservation Coalition Interoperability Studies - Research foundation for translation approach
 
 ### Cross-References Within This Document
-- [[01-deep-authorship-3-layer-model]] - Core structure preserved in all translations
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/01-deep-authorship-3-layer-model]] - Core structure preserved in all translations
 - [[💎 Codex/Foundational Concepts/02-deep-authorship-package-format.md]] - Native format serving as translation source
-- [[05-creator-sovereignty]] - Sovereignty preservation through translation
-- [[10-open-source-and-non-proprietary]] - Open source requirements for framework
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]] - Sovereignty preservation through translation
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/10-open-source-and-non-proprietary]] - Open source requirements for framework
 
 ---
 

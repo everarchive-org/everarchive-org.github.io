@@ -105,12 +105,12 @@ This principle represents a fundamental rejection of platform capitalism in favo
 ## Dependencies & Relationships
 
 ### Depends On
-- **[[05-creator-sovereignty]]**: Creator control prevents EverArchive from becoming a data harvesting platform
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]]**: Creator control prevents EverArchive from becoming a data harvesting platform
 - **[[10-open-source-non-proprietary]]**: Open source requirements ensure infrastructure remains accessible
 
 ### Enables
-- **[[12-civilizational-memory-infrastructure]]**: Infrastructure approach enables century-scale thinking beyond corporate interests
-- **[[04-schema-projector-framework]]**: Infrastructure positioning enables collaboration with existing archival standards
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/12-civilizational-memory-infrastructure]]**: Infrastructure approach enables century-scale thinking beyond corporate interests
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/04-schema-projector-framework]]**: Infrastructure positioning enables collaboration with existing archival standards
 
 ### Feature Integration
 - **Institutional Features**: All designed to enhance rather than replace existing institutional capabilities
@@ -191,12 +191,12 @@ Changes to infrastructure positioning must be coordinated with partners to maint
 ## Related Concepts
 
 ### Within Same Category
-- **[[05-creator-sovereignty]]**: Both principles reject extractive relationships, focusing on empowerment rather than exploitation
-- **[[07-process-over-product]]**: Infrastructure focus enables process preservation rather than just product storage
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]]**: Both principles reject extractive relationships, focusing on empowerment rather than exploitation
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/07-process-over-product]]**: Infrastructure focus enables process preservation rather than just product storage
 
 ### Cross-Category Dependencies
 - **[[10-open-source-non-proprietary]]**: Open source requirements make infrastructure positioning technically feasible
-- **[[04-schema-projector-framework]]**: Technical framework that enables rather than replaces existing archival systems
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/04-schema-projector-framework]]**: Technical framework that enables rather than replaces existing archival systems
 
 ### Emergent Properties
 When combined with Creator Sovereignty and Open Source requirements, the infrastructure principle creates a sustainable ecosystem where all participants can succeed without compromising their values.
@@ -243,10 +243,10 @@ When combined with Creator Sovereignty and Open Source requirements, the infrast
 - [[📁 Operations/Website/FOUNDATIONAL-CONCEPTS-EXTRACTED.md]] - Public-facing explanation of infrastructure positioning
 
 ### Cross-References Within This Document
-- [[05-creator-sovereignty]] - Complementary non-extractive principle
-- [[07-process-over-product]] - Values alignment with infrastructure focus
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]] - Complementary non-extractive principle
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/07-process-over-product]] - Values alignment with infrastructure focus
 - [[💎 Codex/Foundational Concepts/10-open-source-non-proprietary]] - Technical requirement for infrastructure positioning
-- [[04-schema-projector-framework]] - Technical enabler for infrastructure approach
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/04-schema-projector-framework]] - Technical enabler for infrastructure approach
 
 ---
 

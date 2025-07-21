@@ -161,11 +161,11 @@ The 3-Layer Model directly drives the Deep Authorship Package (DAP) format struc
 ## Dependencies & Relationships
 
 ### Depends On
-- **[[05-creator-sovereignty.md]]**: The 3-Layer Model requires absolute creator control over layer boundaries and access permissions
-- **[[08-zero-knowledge-encryption-for-core-layer.md]]**: Technical enforcement of Core Layer privacy is mandatory for model integrity
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]]**: The 3-Layer Model requires absolute creator control over layer boundaries and access permissions
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/08-zero-knowledge-encryption-for-core-layer]]**: Technical enforcement of Core Layer privacy is mandatory for model integrity
 
 ### Enables
-- **[[02-deep-authorship-package-dap-format.md]]**: The DAP format is the direct technical expression of the 3-Layer Model
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/02-deep-authorship-package-dap-format]]**: The DAP format is the direct technical expression of the 3-Layer Model
 - **[[Progressive Trust and Sovereignty]]**: The layer structure enables creators to gradually share more as trust develops
 
 ### Feature Integration
@@ -261,13 +261,13 @@ Different versions of the 3-Layer Model implementation must maintain interoperab
 ## Related Concepts
 
 ### Within Same Category
-- **[[02-deep-authorship-package-dap-format.md]]**: Direct technical implementation of the 3-Layer Model
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/02-deep-authorship-package-dap-format]]**: Direct technical implementation of the 3-Layer Model
 - **[[Storage Trinity Architecture]]**: Provides the preservation infrastructure that maintains layer integrity across time
 - **[[Schema Projector Framework]]**: Enables translation between 3-Layer Model and traditional archival formats
 
 ### Cross-Category Dependencies
-- **[[05-creator-sovereignty.md]]**: Provides the philosophical foundation for layer-based access control
-- **[[08-zero-knowledge-encryption-for-core-layer.md]]**: Technical enforcement of the model's privacy requirements
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]]**: Provides the philosophical foundation for layer-based access control
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/08-zero-knowledge-encryption-for-core-layer]]**: Technical enforcement of the model's privacy requirements
 - **[[Process over Product]]**: Philosophical justification for preserving the complete creative journey
 
 ### Emergent Properties
@@ -314,9 +314,9 @@ When the 3-Layer Model combines with other foundational concepts, it creates eme
 - [[2025-07-06-Foundations-Index]] - Complete foundations context and dependencies
 
 ### Cross-References Within This Document
-- [[02-deep-authorship-package-dap-format]] - Technical implementation of this model
-- [[05-creator-sovereignty]] - Philosophical foundation for layer control
-- [[08-zero-knowledge-encryption-for-core-layer]] - Technical enforcement of Core Layer privacy
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/02-deep-authorship-package-dap-format]] - Technical implementation of this model
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/05-creator-sovereignty]] - Philosophical foundation for layer control
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/08-zero-knowledge-encryption-for-core-layer]] - Technical enforcement of Core Layer privacy
 
 ---
 

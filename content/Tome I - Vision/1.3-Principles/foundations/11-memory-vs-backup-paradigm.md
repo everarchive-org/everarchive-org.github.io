@@ -200,7 +200,7 @@ This paradigm demands that preservation systems actively maintain meaning, not j
 - **[[7-process-over-product]]**: The philosophical foundation that makes process memory valuable enough to preserve alongside final products
 
 ### Enables
-- **[[12-civilizational-memory-infrastructure]]**: Memory paradigm is essential for building systems that preserve meaning across centuries
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/12-civilizational-memory-infrastructure]]**: Memory paradigm is essential for building systems that preserve meaning across centuries
 - **[[5-creator-sovereignty]]**: True sovereignty requires control over the meaning and context of one's work, not just access control
 
 ### Feature Integration
@@ -290,8 +290,8 @@ Different interpretations of the memory paradigm will emerge as understanding de
 ## Related Concepts
 
 ### Within Same Category
-- **[[12-civilizational-memory-infrastructure]]**: Memory paradigm is essential for building systems that preserve meaning across civilizational time scales
-- **[[13-antifragility-design-philosophy]]**: Memory systems must become stronger through use and relationship building, not just resist damage
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/12-civilizational-memory-infrastructure]]**: Memory paradigm is essential for building systems that preserve meaning across civilizational time scales
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/13-antifragility-design-philosophy]]**: Memory systems must become stronger through use and relationship building, not just resist damage
 
 ### Cross-Category Dependencies
 - **[[1-deep-authorship-3-layer-model]]**: The architectural primitive that enables memory preservation across different layers of creative meaning
@@ -351,7 +351,7 @@ When the Memory vs. Backup Paradigm combines with other foundational concepts, i
 
 - [[💎 Codex/Foundational Concepts/1-deep-authorship-3-layer-model]] - Architectural foundation for memory preservation
 - [[💎 Codex/Foundational Concepts/7-process-over-product]] - Philosophical foundation for process memory
-- [[12-civilizational-memory-infrastructure]] - Long-term application of memory paradigm
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/12-civilizational-memory-infrastructure]] - Long-term application of memory paradigm
 
 ---
 

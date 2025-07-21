@@ -41,7 +41,7 @@ No significant gaps identified for implementation purposes. Additional operation
 
 ### Related Documentation
 - [[💎 Codex/Foundational Concepts/02-deep-authorship-package-format]] - DAP format that requires Storage Trinity preservation
-- [[09-permanent-preservation-guarantee]] - System invariant enabled by Storage Trinity
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/09-permanent-preservation-guarantee]] - System invariant enabled by Storage Trinity
 
 ## Overview
 
@@ -201,12 +201,12 @@ async function preserveContent(content, metadata) {
 ## Dependencies & Relationships
 
 ### Depends On
-- **[[09-permanent-preservation-guarantee]]**: The Storage Trinity is the technical implementation that enables the permanent preservation system invariant
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/09-permanent-preservation-guarantee]]**: The Storage Trinity is the technical implementation that enables the permanent preservation system invariant
 - **[[02-deep-authorship-package-format]]**: DAP format provides the standardized container that the Trinity preserves
 
 ### Enables
-- **[[11-memory-vs-backup-paradigm]]**: Trinity architecture transforms mechanical backup into meaningful memory preservation by ensuring permanence and accessibility
-- **[[13-antifragility-design-philosophy]]**: Multiple failure domains create antifragile system that strengthens through stress
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/11-memory-vs-backup-paradigm]]**: Trinity architecture transforms mechanical backup into meaningful memory preservation by ensuring permanence and accessibility
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/13-antifragility-design-philosophy]]**: Multiple failure domains create antifragile system that strengthens through stress
 
 ### Feature Integration
 - **Preservation Permanence Features**: All permanence features depend on Trinity architecture for their technical foundation
@@ -308,13 +308,13 @@ Trinity architecture versions should be backward compatible and support gradual 
 ## Related Concepts
 
 ### Within Same Category
-- **[[01-deep-authorship-3-layer-model]]**: Provides the data architecture that Trinity preserves
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/01-deep-authorship-3-layer-model]]**: Provides the data architecture that Trinity preserves
 - **[[02-deep-authorship-package-format]]**: Defines the standardized container format for Trinity storage
-- **[[04-schema-projector-framework]]**: Enables format translation across Trinity pillars for institutional compatibility
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/04-schema-projector-framework]]**: Enables format translation across Trinity pillars for institutional compatibility
 
 ### Cross-Category Dependencies
-- **[[09-permanent-preservation-guarantee]]**: System invariant that Trinity architecture makes technically possible
-- **[[13-antifragility-design-philosophy]]**: Conceptual framework that guides Trinity's multi-domain approach
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/09-permanent-preservation-guarantee]]**: System invariant that Trinity architecture makes technically possible
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/13-antifragility-design-philosophy]]**: Conceptual framework that guides Trinity's multi-domain approach
 
 ### Emergent Properties
 
@@ -367,8 +367,8 @@ When Storage Trinity Architecture combines with other foundational concepts, it 
 - Library of Congress Preservation Standards - Physical vault requirements and archival media specifications
 
 ### Cross-References Within This Document
-- [[09-permanent-preservation-guarantee]] - System invariant enabled by Storage Trinity
-- [[13-antifragility-design-philosophy]] - Design philosophy underlying multi-domain redundancy approach
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/09-permanent-preservation-guarantee]] - System invariant enabled by Storage Trinity
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/13-antifragility-design-philosophy]] - Design philosophy underlying multi-domain redundancy approach
 
 ---
 

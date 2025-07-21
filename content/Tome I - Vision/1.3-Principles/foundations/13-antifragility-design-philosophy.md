@@ -357,9 +357,9 @@ When combined with other concepts, antifragility creates systems that not only p
 ### Cross-References Within This Document
 *Other foundational concepts referenced*
 
-- [[03-storage-trinity-architecture]] - Technical implementation of antifragile redundancy
-- [[09-permanent-preservation-guarantee]] - System invariant enabled by antifragile design
-- [[12-civilizational-memory-infrastructure]] - Framework that requires antifragile sustainability
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/03-storage-trinity-architecture]] - Technical implementation of antifragile redundancy
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/09-permanent-preservation-guarantee]] - System invariant enabled by antifragile design
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/12-civilizational-memory-infrastructure]] - Framework that requires antifragile sustainability
 
 ---
 

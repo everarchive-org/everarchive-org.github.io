@@ -64,7 +64,6 @@ To understand the core philosophy and "why" of the project, please read <!-- Lin
 *   **[[04-tome-iv-the-implementation/03-research-and-gap-analysis-dossier.md]]**
     *   **Title:** The EverArchive Research & Gap Analysis Dossier
     *   **Purpose:** The living document tracking all strategic uncertainties, unvalidated assumptions, and the R&D agenda.
-```
 EverArchive/💎 Codex/Documentation/01 - Weighted Insights.md
 ```md
 ---
@@ -101,7 +100,6 @@ This document contains the distilled, high-weight insights that form the philoso
     *   **Anchor:** A "forever" promise without a "forever" economic engine is a fantasy. Our non-profit, public-good ethos must be protected by a robust, hybrid financial model centered on a permanent endowment. We create value, but we do not extract it from our users.
 *   **[EV-05] The Three-Layer Model is Sacrosanct**
     *   **Anchor:** The distinction between **Core** (the unfiltered mind), **Process** (the evolution trace), and **Surface** (the intentional work) is the central organizing principle of the entire architecture. It is the solution to the paradox of capturing raw authenticity while allowing for curated presentation. This model must endure.
-```
 EverArchive/💎 Codex/Documentation/02 - Master Strategy & Roadmap.md
 ```md
 # EverArchive: Master Strategy & Roadmap
@@ -135,7 +133,6 @@ gantt
     Finalize Architecture Blueprint (L1) : task_spec_arch, after task_spec_dao, 1w
     Update Gap Analysis Dossier (L1) : task_spec_gap, after task_spec_arch, 1w
     MVP Dev Sprint 1                 : crit, task_dev_s1, after task_res_hci, 4w
-```
 ### **3. User Journeys & Development Focus**
 *   **Creator Journey (MVP):** Our immediate product development focuses on the **"Academic Historian"** persona. Their journey is our critical path:
     1.  **Discovery:** Hears about EverArchive through a trusted institutional channel (e.g., a university library).
@@ -151,7 +148,6 @@ All work is managed in discrete **"Chunks"** to ensure focus and trackability. T
     *   `01_work/`: The "Process Layer" for our own work—all notes, drafts, and research.
     *   `02_output/`: The "Surface Layer"—the final, polished deliverable(s).
 *   **Tracking:** A master `README.md` will provide a high-level view of all active and upcoming chunks, making our own development process transparent and aligned with our core principles.
-```
 EverArchive/💎 Codex/Documentation/03 - AI Auditor Prompt Set.md
 ```md
 # EverArchive: The AI Auditor Prompt Set
@@ -196,7 +192,6 @@ This process should be run quarterly and whenever a major change to a core docum
     2.  How would you exploit the dispute resolution process to create a crisis of legitimacy?
     3.  What is the best strategy for launching a disinformation campaign to discredit the decentralized Discovery Index, making users believe that "unapproved" content is being systematically suppressed?
 *   **Output Format:** A classified strategic brief titled "Operation Sundered Memory," outlining the three most effective, low-signature attack vectors against the social and political integrity of the EverArchive.
-```
 EverArchive/💎 Codex/Documentation/04 - Stakeholder FAQ.md
 ```md
 # EverArchive: Addressing Critical Questions

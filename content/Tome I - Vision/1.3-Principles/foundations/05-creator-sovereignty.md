@@ -41,8 +41,8 @@ No significant gaps identified in philosophical foundations. Implementation patt
 - [[2025-07-06-Foundations-Index]] - Complete foundations context and dependencies
 
 ### Related Documentation
-- [[08-zero-knowledge-encryption-for-core-layer]] - Technical enforcement mechanism
-- [[14-progressive-trust-and-sovereignty]] - Trust framework integration
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/08-zero-knowledge-encryption-for-core-layer]] - Technical enforcement mechanism
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/14-progressive-trust-and-sovereignty]] - Trust framework integration
 - [[📁 Operations/Vision Preservation/SACRED-VISION-DOCUMENT-EverArchive.md]] - Sovereignty as sacred mission principle
 
 ## Overview
@@ -158,13 +158,13 @@ Creator Sovereignty means that creators possess absolute, technically-enforced c
 
 ### Depends On
 
-- **[[01-deep-authorship-3-layer-model]]**: The layered architecture is essential for implementing granular sovereignty controls, as different layers require different sovereignty enforcement mechanisms.
-- **[[08-zero-knowledge-encryption-for-core-layer]]**: Technical enforcement of sovereignty requires cryptographic guarantees that make unauthorized access mathematically impossible.
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/01-deep-authorship-3-layer-model]]**: The layered architecture is essential for implementing granular sovereignty controls, as different layers require different sovereignty enforcement mechanisms.
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/08-zero-knowledge-encryption-for-core-layer]]**: Technical enforcement of sovereignty requires cryptographic guarantees that make unauthorized access mathematically impossible.
 
 ### Enables
 
-- **[[Foundations/06-infrastructure-not-platform]]**: Creator sovereignty prevents EverArchive from becoming an extractive platform by ensuring creators retain control over their content.
-- **[[14-progressive-trust-and-sovereignty]]**: Sovereignty principles enable creators to build trust incrementally while maintaining full control throughout the spectrum.
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/06-infrastructure-not-platform]]**: Creator sovereignty prevents EverArchive from becoming an extractive platform by ensuring creators retain control over their content.
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/14-progressive-trust-and-sovereignty]]**: Sovereignty principles enable creators to build trust incrementally while maintaining full control throughout the spectrum.
 
 ### Feature Integration
 
@@ -262,13 +262,13 @@ Different sovereignty implementations must be compatible while maintaining consi
 
 ### Within Same Category
 
-- **[[Foundations/06-infrastructure-not-platform]]**: Sovereignty prevents platform extractivism by ensuring creators retain control over their content and relationships.
-- **[[07-process-over-product]]**: Sovereignty enables authentic process preservation by guaranteeing privacy for vulnerable creative thoughts.
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/06-infrastructure-not-platform]]**: Sovereignty prevents platform extractivism by ensuring creators retain control over their content and relationships.
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/07-process-over-product]]**: Sovereignty enables authentic process preservation by guaranteeing privacy for vulnerable creative thoughts.
 
 ### Cross-Category Dependencies
 
-- **[[01-deep-authorship-3-layer-model]]**: The layered architecture implements sovereignty through differentiated access controls for different types of content.
-- **[[08-zero-knowledge-encryption-for-core-layer]]**: Technical invariant that enforces sovereignty through mathematical privacy guarantees.
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/01-deep-authorship-3-layer-model]]**: The layered architecture implements sovereignty through differentiated access controls for different types of content.
+- **[[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/08-zero-knowledge-encryption-for-core-layer]]**: Technical invariant that enforces sovereignty through mathematical privacy guarantees.
 
 ### Emergent Properties
 
@@ -317,9 +317,9 @@ When Creator Sovereignty combines with other foundational concepts, it creates a
 - [[📁 Operations/Vision Preservation/SACRED-VISION-DOCUMENT-EverArchive.md]] - Sovereignty as sacred mission principle
 
 ### Cross-References Within This Document
-- [[01-deep-authorship-3-layer-model]] - Architectural foundation for sovereignty implementation
-- [[08-zero-knowledge-encryption-for-core-layer]] - Technical enforcement mechanism
-- [[14-progressive-trust-and-sovereignty]] - Trust framework integration
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/01-deep-authorship-3-layer-model]] - Architectural foundation for sovereignty implementation
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/08-zero-knowledge-encryption-for-core-layer]] - Technical enforcement mechanism
+- [[🧑‍🎨 Distributed Creatives/♾️ EverArchive/💎 Codex/Tome I - Vision/1.3-Principles/foundations/14-progressive-trust-and-sovereignty]] - Trust framework integration
 
 ---
 
